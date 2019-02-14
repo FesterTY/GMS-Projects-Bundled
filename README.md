@@ -5,10 +5,10 @@ Two projects I created/games using GMS2 during my summer time (March - April) ba
 
 <p align="center">
   <img alt="A screenshot taken inside Pong" src="https://i.imgur.com/M1pfsyD.jpg" width="90%" />
-  <h4 align="center">A screenshot taken inside Pong<h4>
+  <i><h4 align="center">A screenshot taken inside Pong<h4></i>
 </p>
     
 <p align="center">
   <img alt="A screenshot taken inside Astroid" src="https://i.imgur.com/13l8eWM.jpg" width="90%" />
-  <h4 align="center">A screenshot taken inside Astroid</h4>
+  <i><h4 align="center">A screenshot taken inside Astroid</h4></i>
 </p>  
